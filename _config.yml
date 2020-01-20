@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "google-site-verification=Z9I6a3OMhzz2PHeKLTUblhDsMyZXz44VgaJb7H6pqpM"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -88,6 +88,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
+  discord          : "Janik313#8994"
   flickr           :
   facebook         :
   foursquare       :
@@ -109,8 +110,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  reddit           : "Janik313"
-  discord          : "Janik313#8994"
   
 
 
