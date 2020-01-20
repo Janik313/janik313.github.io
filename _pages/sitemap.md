@@ -4,7 +4,7 @@ title: "Downloads"
 permalink: /downloads/
 author_profile: true
 ---
-
+You can use most of my Projects as you want, as long as you follow the <a href="https://github.com/Janik313/janik313.github.io/raw/master/LICENSE">GNU General Public License v3.0 pages</a>.
 
 <h2>Tools</h2>
 <h3>RecaptchaSkip</h3>
