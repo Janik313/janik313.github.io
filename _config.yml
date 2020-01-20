@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Janik313"
-description              : &description "A lazy gamer who codes sometimes."
+description              : &description "It's shitty code, but it's free code."
 url                      : https://janik313.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "janik313/janik313.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Janik313"
   avatar           : "profile.png"
-  bio              : "I'm a lazy gamer who codes sometimes."
+  bio              : "It's shitty code, but it's free code."
   email            : "janik.backup@gmail.com"
   uri              :
   bitbucket        :
