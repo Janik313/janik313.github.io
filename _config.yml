@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Janik313"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Janik313"
 description              : &description "A lazy gamer who codes sometimes."
 url                      : https://janik313.github.io
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/downloads" # the subpath of your site, e.g. "/blog"
 repository               : "janik313/janik313.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
