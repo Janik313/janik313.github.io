@@ -3,9 +3,9 @@ main:
   - title: "Downloads"
     url: /downloads/
 
-  - title: "Updates"
-    url: /updates/    
-
   - title: "Latest Releases"
     url: /releases/    
+
+  - title: "Updates / News"
+    url: /updates/    
     

@@ -1,9 +1,8 @@
 ---
 permalink: /
-title: "Janik313 Website"
+title: "Home"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
+On this website you can download my self-made programs.
+<br>There's nothing more to do here. Yes, i know thats very creative.
