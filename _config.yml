@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Janik313"
 description              : &description "A lazy gamer who codes sometimes."
 url                      : https://janik313.github.io
-baseurl                  : "/downloads" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "janik313/janik313.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -102,7 +102,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : "http://steamcommunity.com/id/janik313"
+  steam            : "Janik313"
   tumblr           :
   twitter          : "janik313"
   vine             :
@@ -110,6 +110,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  reddit           : "Janik313"
+  
 
 
 # Reading Files
