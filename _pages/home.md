@@ -15,7 +15,7 @@ On this website you can download my self-made programs.
 
     const renderTimer = () => {
       count += 1;
-      seconds.innerHTML = (count % 9999).toString().padStart(1, "0");
+      seconds.innerHTML = (count % 100).toString().padStart(1, "0");
     }
 
     const timer = setInterval(renderTimer, 1000)
