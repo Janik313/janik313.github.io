@@ -7,17 +7,18 @@ author_profile: true
 On this website you can download my self-made programs.
 <br>There's nothing more to do here, but you can look at this thing and listen to the Nyan Cat Theme.
 
-<span id="minutes"></span>:<span id="seconds"></span>
+
+<br>You wastend
+<span id="seconds"></span>
 
 <script>
 var sec = 0;
     function pad ( val ) { return val > 9 ? val : "0" + val; }
     setInterval( function(){
-        document.getElementById("seconds").innerHTML=pad(++sec%60);
-        document.getElementById("minutes").innerHTML=pad(parseInt(sec/60,10));
+        document.getElementById("seconds").innerHTML=pad(++sec%9999999999999999999999999999999);
     }, 1000);
 </script>
-  
+  seconds of your life on this website.
   
   
 <br><img src="/files/wabbl.gif" alt="Wabbl" width="320" height="229">
