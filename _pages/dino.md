@@ -2593,9 +2593,3 @@ html[subframe] body {
 	}
   </script>
 	  
-
-
-
-</body>
-
-</html>
