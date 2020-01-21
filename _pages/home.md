@@ -7,17 +7,32 @@ author_profile: true
 On this website you can download my self-made programs.
 <br>There's nothing more to do here, but you can look at this thing and listen to the Nyan Cat Theme.
 
-<span id="minutes"></span>:<span id="seconds"></span>
 
+<span id="count-up">0:00</span>
 <script>
-var sec = 0;
-    function pad ( val ) { return val > 9 ? val : "0" + val; }
-    setInterval( function(){
-        document.getElementById("seconds").innerHTML=pad(++sec%60);
-        document.getElementById("minutes").innerHTML=pad(parseInt(sec/60,10));
-    }, 1000);
-</script>
-  
+	  var min    = 0;
+      var second = 00;
+      var zeroPlaceholder = 0;
+      var counterId = setInterval(function(){
+                        countUp();
+                      }, 1000);
+
+      function countUp () {
+          second++;
+          if(second == 59){
+            second = 00;
+            min = min + 1;
+          }
+          if(second == 10){
+              zeroPlaceholder = '';
+          }else
+          if(second == 00){
+              zeroPlaceholder = 0;
+          }
+
+          document.getElementById("count-up").innerText = min+':'+zeroPlaceholder+second;
+      }
+</script>  
   
   
 <br><img src="/files/wabbl.gif" alt="Wabbl" width="320" height="229">
@@ -28,5 +43,3 @@ var sec = 0;
 Your browser does not support the audio element.
 </audio>
 
-
-<script> </script>
