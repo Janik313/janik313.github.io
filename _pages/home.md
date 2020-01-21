@@ -22,7 +22,7 @@ var sec = 0;
   
 <br><img src="/files/wabbl.gif" alt="Wabbl" width="320" height="229">
 <br>
-<audio controls>
+<audio controls loop>
   <source src="/files/nyan.mp3" type="audio/mp3">
   <source src="/files/nyan.mp3" type="audio/mp3">
 Your browser does not support the audio element.
