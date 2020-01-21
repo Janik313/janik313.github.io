@@ -8,18 +8,12 @@ On this website you can download my self-made programs.
 <br>There's nothing more to do here, but you can look at this thing and listen to the Nyan Cat Theme.
 
 
-  <br><span id="seconds">0</span>
-  <script>
-    const seconds = document.querySelector("#seconds")
-    let count = 0;
-
-    const renderTimer = () => {
-      count += 1;
-      seconds.innerHTML = (count % 100).toString().padStart(1, "0");
-    }
-
-    const timer = setInterval(renderTimer, 1000)
-  </script>
+ var sec = 0;
+    function pad ( val ) { return val > 9 ? val : "0" + val; }
+    setInterval( function(){
+        document.getElementById("seconds").innerHTML=pad(++sec%60);
+        document.getElementById("minutes").innerHTML=pad(parseInt(sec/60,10));
+    }, 1000);
   
   
   
