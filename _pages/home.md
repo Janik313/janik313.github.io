@@ -6,6 +6,8 @@ author_profile: true
 ---
 On this website you can download my self-made programs.
 <br>There's nothing more to do here, but you can look at this thing and listen to the Nyan Cat Theme.
+
+
   <br><span id="seconds">0</span>
   <script>
     const seconds = document.querySelector("#seconds")
@@ -13,11 +15,14 @@ On this website you can download my self-made programs.
 
     const renderTimer = () => {
       count += 1;
-      seconds.innerHTML = (count % 99999999999999999999999999999999999999999999999999999999999999999999999999).toString().padStart(1, "0");
+      seconds.innerHTML = (count % 9999).toString().padStart(1, "0");
     }
 
     const timer = setInterval(renderTimer, 1000)
   </script>
+  
+  
+  
 <br><img src="/files/wabbl.gif" alt="Wabbl" width="320" height="229">
 <br>
 <audio controls>
