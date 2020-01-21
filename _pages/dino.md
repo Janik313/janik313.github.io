@@ -4,7 +4,8 @@ title: "Dino-Game"
 permalink: /dino/
 author_profile: true
 ---
-
+<html>
+<body>
 <script src="https://apis.google.com/js/platform.js" async defer></script>
 
 	<!--script type="text/javascript" src="a.js"></script-->
@@ -2592,4 +2593,5 @@ html[subframe] body {
 	  hideClass(".onlyforchrome");
 	}
   </script>
-	  
+	  <body>
+	  <html>
