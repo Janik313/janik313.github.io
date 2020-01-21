@@ -5,6 +5,7 @@ permalink: /downloads/
 author_profile: true
 ---
 You can use most of my Projects as you want, as long as you follow the <a href="https://github.com/Janik313/janik313.github.io/raw/master/LICENSE">GNU General Public License</a>.
+<br>
 <br> You need Tampermonkey for all of my Javascript Projects.
 <br><button onclick="window.location.href='https://www.tampermonkey.net/'">Download Tampermonkey</button>
 
