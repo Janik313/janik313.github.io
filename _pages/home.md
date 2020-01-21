@@ -9,7 +9,8 @@ On this website you can download my self-made programs.
 
 
 <br>You wastend
-<br><span id="seconds"></span>
+<br>
+<span id="seconds"></span>
 <script>
 var sec = 0;
     function pad ( val ) { return val > 9 ? val : "0" + val; }
