@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: talk
 title: "Latest Releases"
 permalink: /releases/
 author_profile: true
