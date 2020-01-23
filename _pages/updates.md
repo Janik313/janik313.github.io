@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Updates"
 permalink: /updates/
 author_profile: true
