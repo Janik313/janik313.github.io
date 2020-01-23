@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Latest Releases"
 permalink: /releases/
 author_profile: true

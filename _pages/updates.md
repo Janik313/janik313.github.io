@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: talk
 title: "Updates"
 permalink: /updates/
 author_profile: true
