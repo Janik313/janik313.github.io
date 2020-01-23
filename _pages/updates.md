@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: splash
 title: "Updates"
 permalink: /updates/
 author_profile: true
