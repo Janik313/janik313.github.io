@@ -1,8 +1,8 @@
 ---
-layout: talk
+layout: archive
 title: "Downloads"
 permalink: /downloads/
-author_profile: true
+author_profile: false
 ---
 You can use most of my Projects as you want, as long as you follow the <a href="https://github.com/Janik313/janik313.github.io/raw/master/LICENSE">GNU General Public License</a>.
 <br>

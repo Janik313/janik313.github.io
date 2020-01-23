@@ -1,8 +1,8 @@
 ---
-layout: talk
+layout: archive
 title: "Latest Releases"
 permalink: /releases/
-author_profile: true
+author_profile: false
 ---
 
 <h2>22. January 2020	VR Playground</h2>
