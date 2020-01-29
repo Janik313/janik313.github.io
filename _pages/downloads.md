@@ -14,8 +14,8 @@ You can use most of my Projects as you want, as long as you follow the <a href="
 <h2>Games</h2>
 
 <h3>Jump and Die [Unity]</h3>
-An android Platformer.
-<br>[Beta]
+A simple Platformer for android devices.
+
 <br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie/raw/master/JumpAndDie.apk'">Download</button>
 <br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie'">Github</button>
 
