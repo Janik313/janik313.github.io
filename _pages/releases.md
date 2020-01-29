@@ -5,6 +5,9 @@ permalink: /releases/
 author_profile: false
 ---
 
+<h2>29. January 2020 Jump and Die </h2>
+<br>A simple Platformer for android devices.
+<br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie'">Github Repository</button>
 <h2>22. January 2020	VR Playground</h2>
 <br>A Unity Template for Games made for the Oculus Quest.
 <br><button onclick="window.location.href='https://github.com/Janik313/VR_Playground'">Github Repository</button>
