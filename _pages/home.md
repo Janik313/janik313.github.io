@@ -4,14 +4,30 @@ title: "Home"
 excerpt: "About me"
 author_profile: true
 ---
+
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KX2JVW2');</script>
+<!-- End Google Tag Manager -->
 On this website you can download my self-made programs.
 <br>There's nothing more to do here, but you can look at this thing and listen to the Nyan Cat Theme.
-
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KX2JVW2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+</body>
 
 <center><br>You wastend</center> 
 <center><br></center>
 <center><span id="seconds"></span></center>
 <center><br>seconds of your life on this website.</center>
+
 
 <script>
 var sec = 0;
