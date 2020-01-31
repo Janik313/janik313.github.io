@@ -4,6 +4,17 @@ title: "Downloads"
 permalink: /downloads/
 author_profile: false
 ---
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157295670-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-157295670-1');
+</script>
+</head>
 
 <br> You need Tampermonkey for all of my Javascript Projects.
 <br><button onclick="window.location.href='https://www.tampermonkey.net/'">Download Tampermonkey</button>
