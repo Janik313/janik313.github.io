@@ -4,6 +4,17 @@ title: "Latest Releases"
 permalink: /releases/
 author_profile: false
 ---
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-157295670-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-157295670-1');
+</script>
+</head>
 
 <h2>29. January 2020 Jump and Die </h2>
 <br>A simple Platformer for android devices.
