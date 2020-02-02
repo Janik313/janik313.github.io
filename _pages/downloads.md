@@ -25,7 +25,7 @@ author_profile: false
 
 <h3>Jump and Die [Unity]</h3>
 A simple Platformer for android devices, with over 30 Levels.
-This Project is opensource.
+<br>This Project is opensource.
 <br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie/raw/master/JumpAndDie.apk'">Download</button>
 <br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie'">Github</button>
 
