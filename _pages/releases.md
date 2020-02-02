@@ -16,7 +16,7 @@ author_profile: false
 </script>
 </head>
 
-<h2>29. January 2020 Jump and Die </h2>
+<h2>29. January 2020 Jump and Die v3.0 </h2>
 <br>A simple Platformer for android devices.
 <br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie'">Github Repository</button>
 <h2>22. January 2020	VR Playground</h2>
