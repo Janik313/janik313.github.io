@@ -5,6 +5,9 @@ excerpt: "About me"
 author_profile: true
 ---
 
+On this website you can download my self-made programs.
+<br>There's nothing more to do here, but you can look at this thing and listen to the Nyan Cat Theme.
+
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157295670-1"></script>
