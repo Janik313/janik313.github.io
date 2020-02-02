@@ -18,7 +18,7 @@ author_profile: false
 
 
 <h2>2. February 2020 Jump and Die v4.0 </h2>
-<br>A simple Platformer for android devices with 40 Levels.
+<br>A simple Platformer for android devices with over 30 Levels.
 <br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie'">Github Repository</button>
 <h2>29. January 2020 Jump and Die v3.0 </h2>
 <br>A simple Platformer for android devices.
