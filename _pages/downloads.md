@@ -27,6 +27,7 @@ author_profile: false
 A simple Platformer for android devices, with over 30 Levels.
 <br>This Project is opensource.
 <br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie/raw/master/JumpAndDie.apk'">Download</button>
+<br><button onclick="window.location.href='https://janik313.github.io/JumpAndDie-WebVersion/'">Web-Version</button>
 <br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie'">Github</button>
 
 
