@@ -46,3 +46,5 @@ A simple Bot, that works most of the time.
 <br><button onclick="window.location.href='https://github.com/Janik313/recaptchaSkip/raw/master/%5Brecaptcha%20skip%5D.user.js'">Download</button>
 <br><button onclick="window.location.href='https://github.com/Janik313/recaptchaSkip'">Github</button>
 <br>
+<br>
+<br>
