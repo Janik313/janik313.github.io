@@ -17,6 +17,8 @@ author_profile: false
 </head>
 
 
+<h2>7. February 2020 CubeSlide 2.0 </h2>
+<br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide'">Github Repository</button>
 <h2>6. February 2020 CubeSlide 1.0 </h2>
 <br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide'">Github Repository</button>
 <h2>3. February 2020 Jump and Die Web-Version </h2>
