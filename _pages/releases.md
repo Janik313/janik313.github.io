@@ -27,19 +27,19 @@ author_profile: false
 <br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide'">Github Repository</button>
 
 <h2>7. February 2020 CubeSlide 2.0 </h2>
-<br>+Added a Highscore
++Added a Highscore
 <br>+Added a SlowMo Item
 <br>Fixed some Bugs
 <br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide'">Github Repository</button>
 
 <h2>6. February 2020 CubeSlide 1.0 </h2>
-<br>+Added random Levels
++Added random Levels
 <br>+Added a Score
 <br>+Made the Game
 <br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide'">Github Repository</button>
 
 <h2>3. February 2020 Jump and Die Web-Version </h2>
-<br>The Web-Version of Jump and Die.
+The Web-Version of Jump and Die.
 <br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie-WebVersion'">Github Repository</button>
 
 <h2>2. February 2020 Jump and Die v4.0 </h2>
@@ -54,7 +54,7 @@ author_profile: false
 <br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie'">Github Repository</button>
 
 <h2>29. January 2020 Jump and Die v3.0 </h2>
-<br>+Added Spikes
++Added Spikes
 <br>+Added a Theme song
 <br>+Added more Levels, there are now 15 Levels.
 <br>Changed the Main Menu.
@@ -65,17 +65,17 @@ author_profile: false
 <br><button onclick="window.location.href='https://github.com/Janik313/VR_Playground'">Github Repository</button>
 
 <h2>20. January 2020	janik313.github.io</h2>
-<br>This Website.
+This Website.
 <br><button onclick="window.location.href='https://github.com/Janik313/janik313.github.io'">Github Repository</button>
 
 <h2>6. November 2019	Energy Star Night Bot</h2>
-<br>The Bot for the Energy Star Night 2019.
+The Bot for the Energy Star Night 2019.
 <br><button onclick="window.location.href='https://github.com/Janik313/EnergyStarNightBot2019'">Github Repository</button>
 
 <h2>13. August 2019	Energy Air Bot</h2>
-<br>The Bot for the Energy Air 2019.
+The Bot for the Energy Air 2019.
 <br><button onclick="window.location.href='https://github.com/Janik313/EnergyAirBot2019'">Github Repository</button>
 
 <h2>6. Juni 2019	Recaptcha Skip</h2>
-<br>A Bot to skip the Google Recaptcha.
+A Bot that skips Google Recaptchas.
 <br><button onclick="window.location.href='https://github.com/Janik313/recaptchaSkip'">Github Repository</button>
