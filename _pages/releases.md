@@ -16,6 +16,12 @@ author_profile: false
 </script>
 </head>
 
+<h2>17. February 2020 CubeSlide 4.5 </h2>
++Added Player Skins
+<br>Fixed the dropdown Menus
+<br>Made some Bugfixes
+<br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide'">Github Repository</button>
+
 <h2>16. February 2020 CubeSlide 4.0 </h2>
 +Added more obstacles
 <br>+You can now restart by pressing Space
