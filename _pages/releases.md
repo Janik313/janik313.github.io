@@ -20,14 +20,14 @@ author_profile: false
 +Added Player Skins
 <br>Fixed the dropdown Menus
 <br>Made some Bugfixes
-<br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide'">Github Repository</button>
+<br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide'" class="btn">Github Repository</button>
 
 <h2>16. February 2020 CubeSlide 4.0 </h2>
 +Added more obstacles
 <br>+You can now restart by pressing Space
 <br>+Added the version number to the settings
 <br>Made some general bug fixes
-<br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide'">Github Repository</button>
+<br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide'" class="btn">Github Repository</button>
 
 <h2>8. February 2020 CubeSlide 3.0 </h2>
 +Added an invincibility Item
@@ -37,7 +37,7 @@ author_profile: false
 <br>+Added a how to Play
 <br>+Added item indicators
 <br>Made Items disappear when you collect them
-<br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide'">Github Repository</button>
+<br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide'" class="btn">Github Repository</button>
 
 <h2>7. February 2020 CubeSlide 2.0 </h2>
 +Added a Highscore
