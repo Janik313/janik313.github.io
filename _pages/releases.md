@@ -43,17 +43,17 @@ author_profile: false
 +Added a Highscore
 <br>+Added a SlowMo Item
 <br>Fixed some Bugs
-<br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide'">Github Repository</button>
+<br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide'" class="btn">Github Repository</button>
 
 <h2>6. February 2020 CubeSlide 1.0 </h2>
 +Added random Levels
 <br>+Added a Score
 <br>+Made the Game
-<br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide'">Github Repository</button>
+<br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide'" class="btn">Github Repository</button>
 
 <h2>3. February 2020 Jump and Die Web-Version </h2>
 The Web-Version of Jump and Die.
-<br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie-WebVersion'">Github Repository</button>
+<br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie-WebVersion'" class="btn">Github Repository</button>
 
 <h2>2. February 2020 Jump and Die v4.0 </h2>
 +Added a Pause Button.
@@ -64,31 +64,31 @@ The Web-Version of Jump and Die.
 <br>Edited the Credits.
 <br>Changed the Size of the Joystick.
 <br>Fixed some Bugs.
-<br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie'">Github Repository</button>
+<br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie'" class="btn">Github Repository</button>
 
 <h2>29. January 2020 Jump and Die v3.0 </h2>
 +Added Spikes
 <br>+Added a Theme song
 <br>+Added more Levels, there are now 15 Levels.
 <br>Changed the Main Menu.
-<br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie'">Github Repository</button>
+<br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie'" class="btn">Github Repository</button>
 
 <h2>22. January 2020	VR Playground</h2>
 <br>A Unity Template for Games made for the Oculus Quest.
-<br><button onclick="window.location.href='https://github.com/Janik313/VR_Playground'">Github Repository</button>
+<br><button onclick="window.location.href='https://github.com/Janik313/VR_Playground'" class="btn">Github Repository</button>
 
 <h2>20. January 2020	janik313.github.io</h2>
 This Website.
-<br><button onclick="window.location.href='https://github.com/Janik313/janik313.github.io'">Github Repository</button>
+<br><button onclick="window.location.href='https://github.com/Janik313/janik313.github.io'" class="btn">Github Repository</button>
 
 <h2>6. November 2019	Energy Star Night Bot</h2>
 The Bot for the Energy Star Night 2019.
-<br><button onclick="window.location.href='https://github.com/Janik313/EnergyStarNightBot2019'">Github Repository</button>
+<br><button onclick="window.location.href='https://github.com/Janik313/EnergyStarNightBot2019'" class="btn">Github Repository</button>
 
 <h2>13. August 2019	Energy Air Bot</h2>
 The Bot for the Energy Air 2019.
-<br><button onclick="window.location.href='https://github.com/Janik313/EnergyAirBot2019'">Github Repository</button>
+<br><button onclick="window.location.href='https://github.com/Janik313/EnergyAirBot2019'" class="btn">Github Repository</button>
 
 <h2>6. Juni 2019	Recaptcha Skip</h2>
 A Bot that skips Google Recaptchas.
-<br><button onclick="window.location.href='https://github.com/Janik313/recaptchaSkip'">Github Repository</button>
+<br><button onclick="window.location.href='https://github.com/Janik313/recaptchaSkip'" class="btn">Github Repository</button>
