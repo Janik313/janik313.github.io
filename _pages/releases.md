@@ -16,6 +16,10 @@ author_profile: false
 </script>
 </head>
 
+<h2>19. February 2020 Ep-Feed 2.0 </h2>
+A remake of an App i made 2 years ago.
+<br><button onclick="window.location.href='https://github.com/Janik313/EpFeed'" class="btn">Github Repository</button>
+
 <h2>17. February 2020 CubeSlide 4.5 </h2>
 +Added Player Skins
 <br>Fixed the dropdown Menus
