@@ -49,7 +49,7 @@ A Unity Template for Games made for the Oculus Quest.
 
 <h3>Ep-Feed [VisualStudio / html + Javascript]</h3>
 A pwa remake of an App i made 2 years ago.
-<br><button onclick="window.location.href='https://janik313.github.io/EpFeed/'" class="btn">Go to Ep-Feed</button>
+<br><button onclick="window.location.href='https://janik313.github.io/EpFeed/'" class="btn">Go to the Ep-Feed App</button>
 <br><button onclick="window.location.href='https://github.com/Janik313/EpFeed'" class="btn">Github</button>
 
 <h3>RecaptchaSkip [Javascript]</h3>
