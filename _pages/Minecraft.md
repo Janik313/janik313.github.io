@@ -5,7 +5,6 @@ permalink: /mc/
 author_profile: false
 ---
 
-<!DOCTYPE HTML>
 <html lang="en-US">
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -26,4 +25,3 @@ author_profile: false
             <script src="./index.js" type="module"></script>
 
     </body>
-</html>
