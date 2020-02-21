@@ -19,7 +19,7 @@ author_profile: false
 
 
     <body>
-                  <iframe src="https://classic.minecraft.net/" width="100%" height="100%">
+                  <iframe src="https://classic.minecraft.net/" width="5000px" height="4000px">
               <p>Your browser does not support iframes, click <a href='https://classic.minecraft.net/'>here</a> to go the Website.</p>
             </iframe>
             <script src="./index.js" type="module"></script>
