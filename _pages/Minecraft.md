@@ -18,13 +18,13 @@ author_profile: false
 </script>
 
 <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="0; url=https://classic.minecraft.net/">
+        <meta http-equiv="refresh" content="0; url=https://www.classicube.net/">
         <script type="text/javascript">
-            window.location.href = "https://classic.minecraft.net/"
+            window.location.href = "https://www.classicube.net/"
         </script>
     </head>
     <body>
         <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
-        If you are not redirected automatically, follow this <a href='https://classic.minecraft.net/'>To MC</a>.
+        If you are not redirected automatically, follow this <a href='https://www.classicube.net/'>To MC</a>.
     </body>
     </body>
