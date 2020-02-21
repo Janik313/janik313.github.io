@@ -17,11 +17,14 @@ author_profile: false
   gtag('config', 'UA-157295670-1');
 </script>
 
-
+<meta charset="UTF-8">
+        <meta http-equiv="refresh" content="0; url=https://classic.minecraft.net/">
+        <script type="text/javascript">
+            window.location.href = "https://classic.minecraft.net/"
+        </script>
+    </head>
     <body>
-                  <iframe src="https://classic.minecraft.net/" width="5000px" height="4000px">
-              <p>Your browser does not support iframes, click <a href='https://classic.minecraft.net/'>here</a> to go the Website.</p>
-            </iframe>
-            <script src="./index.js" type="module"></script>
-
+        <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
+        If you are not redirected automatically, follow this <a href='https://classic.minecraft.net/'>To MC</a>.
+    </body>
     </body>

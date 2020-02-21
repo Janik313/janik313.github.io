@@ -23,7 +23,6 @@ author_profile: false
         <script type="text/javascript">
             window.location.href = "https://js-dos.com/games/"
         </script>
-        <title>Crash</title>
     </head>
     <body>
         <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
