@@ -21,7 +21,7 @@ author_profile: false
 <h3>CubeSlide [Unity]</h3>
 An endless runner.
 <br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide/raw/master/CubeSlide.apk'" class="btn">Android Download</button>
-<br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide/raw/master/CubeSlide_Win.zip'" class="btn">Windows Download</button>
+<br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide/raw/master/CubeSlide.zip'" class="btn">Pc Download</button>
 <br><button onclick="window.location.href='https://janik313.github.io/CubeSlide-WebVersion/'" class="btn">Web-Version</button>
 <br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide'" class="btn">Github</button>
 
@@ -36,7 +36,7 @@ A rougelike Game
 A simple Platformer with over 30 Levels.
 <br>This Project is opensource.
 <br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie/raw/master/JumpAndDie.apk'" class="btn">Android Download</button>
-<br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie/raw/master/JumpAndDie_Windows.zip'" class="btn">Windows Download</button>
+<br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie/raw/master/JumpAndDie.zip/'" class="btn">Pc Download</button>
 <br><button onclick="window.location.href='https://janik313.github.io/JumpAndDie-WebVersion/'" class="btn">Web-Version</button>
 <br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie'" class="btn">Github</button>
 
