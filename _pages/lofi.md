@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Crash"
+title: "LoFi Stream"
 permalink: /lofi/
 author_profile: false
 ---
