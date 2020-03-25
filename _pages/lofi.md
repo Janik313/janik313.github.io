@@ -22,7 +22,7 @@ author_profile: false
         <script type="text/javascript">
             window.location.href = "https://www.youtube.com/watch?v=5qap5aO4i9A"
         </script>
-        <title>Crash</title>
+        <title>LoFI</title>
     </head>
     <body>
         <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
