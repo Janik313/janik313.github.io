@@ -17,15 +17,12 @@ author_profile: false
   gtag('config', 'UA-157295670-1');
 </script>
 
-<meta charset="UTF-8">
-        <meta http-equiv="refresh" content="0; url=https://www.youtube.com/watch?v=5qap5aO4i9A">
-        <script type="text/javascript">
-            window.location.href = "https://www.youtube.com/watch?v=5qap5aO4i9A"
-        </script>
-        <title>LoFI</title>
-    </head>
-    <body>
-        <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
-        If you are not redirected automatically, follow this <a href='https://www.youtube.com/watch?v=5qap5aO4i9A'>lofi</a>.
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/5qap5aO4i9A">
+</iframe>
+<br>
+<center><br>You spend</center> 
+<center><br></center>
+<center><span id="seconds"></span></center>
+<center><br>seconds listening to this lofi stream.</center>
     </body>
 </html>
