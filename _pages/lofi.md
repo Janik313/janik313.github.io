@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "LoFi Stream"
 permalink: /lofi/
 author_profile: false
