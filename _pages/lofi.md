@@ -4,7 +4,6 @@ title: "LoFi Stream"
 permalink: /lofi/
 author_profile: false
 ---
-<!DOCTYPE HTML>
 <html lang="en-US">
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -24,5 +23,11 @@ author_profile: false
 <center><br></center>
 <center><span id="seconds"></span></center>
 <center><br>seconds listening to this lofi stream.</center>
-    </body>
-</html>
+
+<script>
+var sec = 0;
+    function pad ( val ) { return val > 9 ? val : "0" + val; }
+    setInterval( function(){
+        document.getElementById("seconds").innerHTML=pad(++sec%9999999999999999999999999999999);
+    }, 1000);
+</script>
