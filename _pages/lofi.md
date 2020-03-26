@@ -20,7 +20,7 @@ author_profile: false
 <center><iframe src="https://www.youtube.com/embed/5qap5aO4i9A?autoplay=1"
    width="560" height="315" frameborder="0" allowfullscreen></iframe></center>
 <br>
-<center><br>You spend</center> 
+<center><br>You spent</center> 
 <center><br></center>
 <center><span id="seconds"></span></center>
 <center><br>seconds listening to this lofi stream.</center>
