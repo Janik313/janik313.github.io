@@ -25,6 +25,13 @@ An endless runner.
 <br><button onclick="window.location.href='https://janik313.github.io/CubeSlide-WebVersion/'" class="btn">Web-Version</button>
 <br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide'" class="btn">Github</button>
 
+<h3>F*ck the World [Unity]</h3>
+A cookie clicker style game where your goal is to destroy the earth.
+<br><button onclick="window.location.href='https://github.com/Janik313/FuckTheWorld/raw/master/F-ckTheWorld.apk'" class="btn">Android Download</button>
+<br><button onclick="window.location.href='https://github.com/Janik313/FuckTheWorld/raw/master/F-ckTheWorld.zip'" class="btn">Pc Download</button>
+<br><button onclick="window.location.href='https://janik313.github.io/FuckTheWorld-WebVersion/'" class="btn">Web-Version</button>
+<br><button onclick="window.location.href='https://github.com/Janik313/FuckTheWorld'" class="btn">Github</button>
+
 <h3>Jump and Die [Unity]</h3>
 A simple Platformer with over 30 Levels.
 <br>This Project is opensource.

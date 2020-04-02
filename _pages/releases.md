@@ -15,6 +15,9 @@ author_profile: false
   gtag('config', 'UA-157295670-1');
 </script>
 </head>
+<h2>2. April 2020 F*ck the World 0.5 </h2>
+A remake of an App i made 2 years ago.
+<br><button onclick="window.location.href='https://github.com/Janik313/FuckTheWorld'" class="btn">Github Repository</button>
 
 <h2>19. February 2020 Ep-Feed 2.0 </h2>
 A remake of an App i made 2 years ago.
