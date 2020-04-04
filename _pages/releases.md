@@ -16,6 +16,10 @@ author_profile: false
 </script>
 </head>
 
+<h2>4. April 2020 F*ck the World 2.0 </h2>
+A cookie clicker style game where your goal is to destroy the earth.
+<br><button onclick="window.location.href='https://github.com/Janik313/FuckTheWorld'" class="btn">Github Repository</button>
+
 <h2>4. April 2020 F*ck the World 1.5 </h2>
 A cookie clicker style game where your goal is to destroy the earth.
 <br><button onclick="window.location.href='https://github.com/Janik313/FuckTheWorld'" class="btn">Github Repository</button>
