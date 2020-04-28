@@ -21,7 +21,7 @@ On this website you can download my self-made programs.
 </head>
 
 
-<center><br>You wastend</center> 
+<center><br>You wasted</center> 
 <center><br></center>
 <center><span id="seconds"></span></center>
 <center><br>seconds of your life on this website.</center>
