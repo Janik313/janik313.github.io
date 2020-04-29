@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Virus desinfection kit"
+title: "Virus disinfection kit"
 permalink: /kit/
 author_profile: false
 ---
