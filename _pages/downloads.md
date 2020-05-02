@@ -65,3 +65,10 @@ A simple Bot, that works most of the time.
 <br><button onclick="window.location.href='https://github.com/Janik313/recaptchaSkip/raw/master/%5Brecaptcha%20skip%5D.user.js'" class="btn">Download</button>
 <br><button onclick="window.location.href='https://github.com/Janik313/recaptchaSkip'" class="btn">Github</button>
 
+<h3>Youtube ad skipper [Javascript]</h3>
+A script that skips youtube ads.
+<br> You need Tampermonkey for this.
+<br><button onclick="window.location.href='https://www.tampermonkey.net/'" class="btn">Download Tampermonkey</button>
+<br><button onclick="window.location.href='https://github.com/Janik313/YoutubeAdSkipper/raw/master/YouTube%20Ad%20skipper.user.js'" class="btn">Download</button>
+<br><button onclick="window.location.href='https://github.com/Janik313/YoutubeAdSkipper'" class="btn">Github</button>
+

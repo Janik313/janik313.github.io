@@ -15,6 +15,9 @@ author_profile: false
   gtag('config', 'UA-157295670-1');
 </script>
 </head>
+<h2>2. May 2020 YouTube ad skipper 1.0 </h2>
+Made the Script.
+<br><button onclick="window.location.href='https://github.com/Janik313/YoutubeAdSkipper'" class="btn">Github Repository</button>
 
 <h2>5. April 2020 F*ck the World 2.5 </h2>
 Made mutible Bug Fixes.
