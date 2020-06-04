@@ -22,9 +22,9 @@ var pass1="test";
 password=prompt('Please enter your password to view this page!',' ');
 
 if (password==pass1)
-  alert('Password Correct! Click OK to enter!');
+  window.location="https://janik313.github.io/downloads";
 else
    {
-    window.location="https://janik313.github.io/downloads";
+    window.location="https://janik313.github.io/lofi";
     }
 </SCRIPT>
