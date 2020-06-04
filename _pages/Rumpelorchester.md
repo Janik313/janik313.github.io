@@ -16,10 +16,8 @@ author_profile: false
   gtag('config', 'UA-157295670-1');
 </script>
 <SCRIPT language="JavaScript">
-<!--hide
-
 var password;
-var pass1="techgeekshan";
+var pass1="test";
 
 password=prompt('Please enter your password to view this page!',' ');
 
@@ -29,6 +27,4 @@ else
    {
     window.location="https://janik313.github.io/downloads";
     }
-
-//-->
 </SCRIPT>
