@@ -21,8 +21,8 @@ var pass1="test";
 
 password=prompt('Please enter your password to view this page!',' ');
 
-if (password==pass1)
-  window.location="https://janik313.github.io/downloads";
+if (password=pass1){
+  window.location="https://janik313.github.io/downloads";}
 else
    {
     window.location="https://janik313.github.io/lofi";
