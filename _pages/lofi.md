@@ -23,8 +23,8 @@ author_profile: false
 <br>
 <br>
 <div class="embed-responsive embed-responsive-16by9">
-<center><iframe src="https://www.youtube.com/embed/5qap5aO4i9A?autoplay=1"
-   width="560" height="315" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/5qap5aO4i9A?autoplay=1"
+   allowfullscreen></iframe></center>
    </div>
 <br>
 <center><br>You spent</center> 
