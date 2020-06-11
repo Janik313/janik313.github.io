@@ -17,8 +17,8 @@ author_profile: false
 </script>
 <br>
 <br>
-<audio controls>
+<center><audio controls; style="width:500px;height:32px">
   <source src="/files/neuland 9s.wav" type="audio/wav">
 Your browser does not support the audio element.
-</audio>
+</audio></center>
 <br>
