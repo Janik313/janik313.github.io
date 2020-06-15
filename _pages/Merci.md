@@ -6,6 +6,7 @@ author_profile: false
 ---
 <html lang="de-CH">
 <head>
+ <title>Merci Herr Adank</title>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157295670-1"></script>
 <script>
