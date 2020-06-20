@@ -10,7 +10,7 @@ author_profile: false
  <style>
  .iframe-container{
   position: relative;
-  width: 90%;
+  width: 100%;
   padding-bottom: 56.25%; 
   height: 0;
 }
@@ -18,7 +18,7 @@ author_profile: false
   position: absolute;
   top:0;
   left: 0;
-  width: 90%;
+  width: 100%;
   height: 75%;
   
 }
