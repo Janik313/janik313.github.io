@@ -33,7 +33,7 @@ author_profile: false
 </script>
 <br>
 <div class="iframe-container">
-<iframe width="1903" height="768" src="https://www.youtube.com/embed/jiBmHjh_Ueo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1903" height="768" src="https://www.youtube.com/embed/jiBmHjh_Ueo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
 <center><audio controls>
