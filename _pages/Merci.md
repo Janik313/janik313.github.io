@@ -9,13 +9,13 @@ author_profile: false
  <title>Merci Herr Adank</title>
  <style>
  .iframe-container{
-  position: relative;
+  position: center;
   width: 90%;
   padding-bottom: 56.25%; 
   height: 0;
 }
 .iframe-container iframe{
-  position: absolute;
+  position: center;
   top:0;
   left: 0;
   width: 90%;
@@ -33,9 +33,8 @@ author_profile: false
 </script>
 <br>
 <center><div class="iframe-container">
-<iframe width="1903" height="768" src="https://www.youtube.com/embed/jiBmHjh_Ueo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/jiBmHjh_Ueo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></center>
-<br>
 <center><audio controls>
   <source src="/files/neuland 9s.wav" type="audio/wav">
 Your browser does not support the audio element.
