@@ -10,7 +10,7 @@ author_profile: false
  <style>
  .iframe-container{
   position: relative;
-  width: 75%;
+  width: 80%;
   padding-bottom: 56.25%; 
   height: 0;
 }
@@ -32,9 +32,9 @@ author_profile: false
   gtag('config', 'UA-157295670-1');
 </script>
 <br>
-<div class="iframe-container">
+<center><div class="iframe-container">
 <iframe width="1903" height="768" src="https://www.youtube.com/embed/jiBmHjh_Ueo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+</div></center>
 <br>
 <center><audio controls>
   <source src="/files/neuland 9s.wav" type="audio/wav">
