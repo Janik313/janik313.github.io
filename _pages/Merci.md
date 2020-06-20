@@ -20,6 +20,14 @@ author_profile: false
   left: 0;
   width: 90%;
   height: 75%;
+  
+}
+.video-container-wrapper {
+max-width: 100%;
+width: 600px;
+left: 0;
+right:0;
+margin:auto;
 }
  </style>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -32,7 +40,7 @@ author_profile: false
   gtag('config', 'UA-157295670-1');
 </script>
 <br>
-<center><div class="iframe-container">
+<center><div class="iframe-container"><div class="video-container-wrapper">
 <iframe src="https://www.youtube.com/embed/jiBmHjh_Ueo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></center>
 <center><audio controls>
