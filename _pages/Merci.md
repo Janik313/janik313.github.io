@@ -8,27 +8,19 @@ author_profile: false
 <head>
  <title>Merci Herr Adank</title>
  <style>
- .iframe-container{
-  position: relative;
-  width: 100%;
-  padding-bottom: 56.25%; 
-  height: 0;
+.responsive {
+width: 100%;
+height: 0;
+padding-bottom: 56.25%;
+position: relative;
 }
-.iframe-container iframe{
-  position: absolute;
-  top:0;
-  left: 0;
-  width: 100%;
-  height: 75%;
-  
+.responsive iframe {
+position: absolute;
+width: 100%;
+height: 100%;
 }
-.video-container-wrapper {
-max-width: 100%;
-width: 600px;
-left: 0;
-right:0;
-margin:auto;
-}
+
+
  </style>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157295670-1"></script>
@@ -40,8 +32,8 @@ margin:auto;
   gtag('config', 'UA-157295670-1');
 </script>
 <br>
-<center><div class="iframe-container"><div class="video-container-wrapper">
-<iframe src="https://www.youtube.com/embed/jiBmHjh_Ueo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><div class="responsive">
+<iframe with="560" height="315" src="https://www.youtube.com/embed/jiBmHjh_Ueo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div></center>
 <center><audio controls>
   <source src="/files/neuland 9s.wav" type="audio/wav">
