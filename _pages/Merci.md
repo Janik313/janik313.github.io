@@ -9,7 +9,7 @@ author_profile: false
  <title>Merci Herr Adank</title>
  <style>
 .responsive {
-width: 100%;
+width: 90%;
 height: 0;
 padding-bottom: 56.25%;
 position: relative;
@@ -17,7 +17,7 @@ position: relative;
 .responsive iframe {
 position: absolute;
 width: 100%;
-height: 100%;
+height: 75%;
 }
 
 
