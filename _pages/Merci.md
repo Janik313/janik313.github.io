@@ -8,19 +8,7 @@ author_profile: false
 <head>
  <title>Merci Herr Adank</title>
  <style>
-.responsive {
-width: 90%;
-height: 0;
-padding-bottom: 56.25%;
-position: relative;
-}
-.responsive iframe {
-position: absolute;
-width: 100%;
-height: 75%;
-}
-
-
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
  </style>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157295670-1"></script>
@@ -32,7 +20,7 @@ height: 75%;
   gtag('config', 'UA-157295670-1');
 </script>
 <br>
-<div class="responsive">
+<div class="embed-container">
 <center><iframe with="560" height="315" src="https://www.youtube.com/embed/jiBmHjh_Ueo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 </div>
 <br>
