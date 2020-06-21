@@ -10,7 +10,7 @@ author_profile: false
  <style type="text/css">
   .container {
    margin:0 auto; /* this will center the page */
-   width:960px; /*  use your width here */
+   width:80%; /*  use your width here */
 }
 .responsive {
 width: 100%;
@@ -21,7 +21,7 @@ position: relative;
 .responsive iframe {
 position: absolute;
 width: 100%;
-height: 75%;
+height: 100%;
 }
  </style>
 <!-- Global site tag (gtag.js) - Google Analytics -->
