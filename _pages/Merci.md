@@ -30,7 +30,7 @@ height: 75%;
   gtag('config', 'UA-157295670-1');
 </script>
 <br>
-<div class="">
+<div class="responsive">
 <center><iframe with="560" height="315" src="https://www.youtube.com/embed/jiBmHjh_Ueo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 </div>
 <br>
