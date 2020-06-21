@@ -7,7 +7,20 @@ author_profile: false
 <html lang="de-CH">
 <head>
  <title>Merci Herr Adank</title>
- <style>
+ <style type="text/css">
+  html, body {
+        margin: 0;
+        border: 0;
+        width: 100%;
+    }
+
+    body {
+        padding: 0 20px;
+    }
+
+    #main {
+        margin: 0 auto; /* in case you want to set a fixed width on this as well */
+    }
 .responsive {
 width: 100%;
 height: 0;
@@ -30,8 +43,8 @@ height: 75%;
   gtag('config', 'UA-157295670-1');
 </script>
 </head>
-<center><body style="width:75%;" margin-right="auto;" margin-left="auto;">
-<br>
+<body>
+ <div id="main"><br>
 <div class="responsive">
 <iframe with="560" height="315" src="https://www.youtube.com/embed/jiBmHjh_Ueo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
@@ -39,5 +52,5 @@ height: 75%;
 <center><audio controls>
   <source src="/files/neuland 9s.wav" type="audio/wav">
 Your browser does not support the audio element.
-</audio></center>
- <body></center>
+</audio></center></div>
+ <body>
