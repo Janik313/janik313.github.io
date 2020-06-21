@@ -21,7 +21,7 @@ position: relative;
 .responsive iframe {
 position: absolute;
 width: 100%;
-height: 100%;
+height: 85%;
 }
  </style>
 <!-- Global site tag (gtag.js) - Google Analytics -->
