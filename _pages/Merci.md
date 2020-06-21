@@ -8,19 +8,10 @@ author_profile: false
 <head>
  <title>Merci Herr Adank</title>
  <style type="text/css">
-  html, body {
-        margin: 0;
-        border: 0;
-        width: 80%;
-    }
-
-    body {
-        padding: 0 20px;
-    }
-
-    #main {
-        margin: 0 auto; /* in case you want to set a fixed width on this as well */
-    }
+  .container {
+   margin:0 auto; /* this will center the page */
+   width:960px; /*  use your width here */
+}
 .responsive {
 width: 100%;
 height: 0;
@@ -44,7 +35,7 @@ height: 75%;
 </script>
 </head>
 <body>
- <div class=main>
+ <div class=container>
   <br>
 <div class="responsive">
 <iframe with="560" height="315" src="https://www.youtube.com/embed/jiBmHjh_Ueo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
