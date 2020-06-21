@@ -10,10 +10,10 @@ author_profile: false
  <style type="text/css">
   @font-face {
   font-family: Roboto;
-  src: https://github.com/Janik313/janik313.github.io/blob/master/assets/fonts/Roboto-Regular.ttf;
+  src: url(https://github.com/Janik313/janik313.github.io/blob/master/assets/fonts/Roboto-Regular.ttf) format("truetype");
 }
-  * {
-   font-family: Roboto;
+  p.customfont { 
+    font-family: "Roboto", Verdana, Tahoma;
 }
   .container {
    margin:0 auto; /* this will center the page */
@@ -43,7 +43,7 @@ height: 85%;
 </head>
 <body>
  <div class="container">
-  <h1>Merci für die 3 Jahr</h1>
+  <center><h1 class="Roboto">Merci für die 3 Jahr</h1></center>
   <br>
 <div class="responsive">
 <iframe with="560" height="315" src="https://www.youtube.com/embed/jiBmHjh_Ueo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
