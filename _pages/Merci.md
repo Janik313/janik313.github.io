@@ -30,7 +30,8 @@ height: 75%;
   gtag('config', 'UA-157295670-1');
 </script>
 </head>
-<body style="width:75%;">
+<body style="width:75%;"margin-right: auto;
+	margin-left: auto;>
 <br>
 <div class="responsive">
 <iframe with="560" height="315" src="https://www.youtube.com/embed/jiBmHjh_Ueo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
