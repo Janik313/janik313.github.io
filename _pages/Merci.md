@@ -11,7 +11,7 @@ author_profile: false
   html, body {
         margin: 0;
         border: 0;
-        width: 100%;
+        width: 80%;
     }
 
     body {
