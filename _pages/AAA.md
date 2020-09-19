@@ -4,7 +4,6 @@ title: "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 permalink: /AAA/
 author_profile: false
 ---
-<!DOCTYPE HTML>
 <html lang="en-US">
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -35,5 +34,3 @@ var sec = 0;
         document.getElementById("seconds").innerHTML=pad(++sec%9999999999999999999999999999999);
     }, 1000);
 </script>
-
-</html>
