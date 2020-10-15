@@ -24,7 +24,7 @@ An endless runner.
 <br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide/raw/master/CubeSlide.zip'" class="btn">Pc Download</button>
 <br><button onclick="window.location.href='https://janik313.github.io/CubeSlide-WebVersion/'" class="btn">Web-Version</button>
 <br><button onclick="window.location.href='https://github.com/Janik313/CubeSlide'" class="btn">Github</button>
-<br><a href='//www.microsoft.com/store/apps/9NSLBL0SMBGF?cid=storebadge&ocid=badge'><img src='images/English_get-it-from-MS.png' alt='English badge' style='width: 284px; height: 104px;'/></a>
+<br><a href='//www.microsoft.com/store/apps/9NSLBL0SMBGF?cid=storebadge&ocid=badge'><img src='https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png' alt='English badge' style='width: 284px; height: 104px;'/></a>
 
 <h3>F*ck the World [Unity]</h3>
 A cookie clicker style game where your goal is to destroy the earth.
