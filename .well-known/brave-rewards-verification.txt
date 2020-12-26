@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: janik313.github.io
-Token: 8b739eea6bcbf93c6f6b70f262e458260b1d16e36fc4d2cbd220e4c3a53ac08f
