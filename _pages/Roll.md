@@ -22,10 +22,6 @@ author_profile: false
   height="100%"
   width="100%"
   id="background-video"
-  src="https://www.youtube.com/embed/watch?v=DLzxrzFCyOs?autoplay=1"
+  src="https://www.youtube.com/embed/DLzxrzFCyOs?vq=hd1080&autoplay=1&loop=1&showinfo=0&rel=0&fs=0&controls=0&disablekb=1"
   allow="autoplay; fullscreen">
 </iframe></center>
-
-https://www.youtube.com/embed/watch?v=DLzxrzFCyOs?autoplay=1
-
-http://www.youtube.com/embed/xzvScRnF6MU?autoplay=1
