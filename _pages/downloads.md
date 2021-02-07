@@ -35,14 +35,6 @@ A simple Platformer with over 30 Levels.
 <br><button onclick="window.location.href='https://github.com/Janik313/JumpAndDie'" class="btn">Github</button>
 <br><a href='//www.microsoft.com/store/apps/9NC0LVBBG459?cid=storebadge&ocid=badge'><img src='https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png' alt='English badge' style='width: 284px; height: 104px;'/></a>
 
-
-<h3>F*ck the World [Unity]</h3>
-A cookie clicker style game where your goal is to destroy the earth.
-<br><button onclick="window.location.href='https://github.com/Janik313/FuckTheWorld/raw/master/F-ckTheWorld.apk'" class="btn">Android Download</button>
-<br><button onclick="window.location.href='https://github.com/Janik313/FuckTheWorld/raw/master/F-ckTheWorld.zip'" class="btn">Pc Download</button>
-<br><button onclick="window.location.href='https://github.com/Janik313/FuckTheWorld'" class="btn">Github</button>
-
-
 <h3>VR Playground [Unity]</h3>
 A Unity Template for Games made for the Oculus Quest.
 <br>You need SideQuest to install it on a Oculus Quest.

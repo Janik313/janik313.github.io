@@ -19,34 +19,6 @@ author_profile: false
 Made the Script.
 <br><button onclick="window.location.href='https://github.com/Janik313/YoutubeAdSkipper'" class="btn">Github Repository</button>
 
-<h2>5. April 2020 F*ck the World 2.5 </h2>
-Made mutible Bug Fixes.
-<br>+Added a ressurce display.
-<br>-Removed the Web-Version because it didn't work.
-<br><button onclick="window.location.href='https://github.com/Janik313/FuckTheWorld'" class="btn">Github Repository</button>
-
-<h2>4. April 2020 F*ck the World 2.0 </h2>
-Made mutible Bug Fixes.
-<br>+Remade the Upgrade Menu
-<br><button onclick="window.location.href='https://github.com/Janik313/FuckTheWorld'" class="btn">Github Repository</button>
-
-<h2>4. April 2020 F*ck the World 1.5 </h2>
-Made mutible Bug Fixes.
-<br>+Added more Backgrounds
-<br><button onclick="window.location.href='https://github.com/Janik313/FuckTheWorld'" class="btn">Github Repository</button>
-
-<h2>4. April 2020 F*ck the World 1.0 </h2>
-+Added some Graphics
-<br>+Made the Game winnable
-<br>+More Upgrades
-<br>+You can build Bombs
-<br>+You can convert Uranium into Plutonium
-<br><button onclick="window.location.href='https://github.com/Janik313/FuckTheWorld'" class="btn">Github Repository</button>
-
-<h2>2. April 2020 F*ck the World 0.5 </h2>
-Made the Game
-<br><button onclick="window.location.href='https://github.com/Janik313/FuckTheWorld'" class="btn">Github Repository</button>
-
 <h2>19. February 2020 Ep-Feed 2.0 </h2>
 A remake of an App i made 2 years ago.
 <br><button onclick="window.location.href='https://github.com/Janik313/EpFeed'" class="btn">Github Repository</button>
