@@ -18,11 +18,6 @@ height: 0;
 padding-bottom: 56.25%;
 position: relative;
 }
-.responsive iframe {
-position: absolute;
-width: 100%;
-height: 85%;
-}
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157295670-1"></script>
