@@ -17,11 +17,4 @@ author_profile: false
 </head>
 <br>
 <body>
-<center>
-<iframe frameborder="0"
-  height="100%"
-  width="100%"
-  id="background-video"
-  src="https://www.youtube.com/embed/DLzxrzFCyOs?vq=hd1080&autoplay=1&loop=1&showinfo=0&rel=0&fs=0&controls=0&disablekb=1"
-  allow="autoplay; fullscreen">
-</iframe></center>
+<iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1" allow='autoplay'></iframe></body>
