@@ -4,8 +4,10 @@ title: "Never gonna give you up"
 permalink: /roll/
 author_profile: false
 ---
+<!DOCTYPE HTML>
+<html lang="en-US">
 <head>
- <!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157295670-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -14,8 +16,7 @@ author_profile: false
 
   gtag('config', 'UA-157295670-1');
 </script>
-</head>
-<br>
+
 <meta charset="UTF-8">
         <meta http-equiv="refresh" content="0; url=https://www.youtube.com/watch?v=dQw4w9WgXcQ">
         <script type="text/javascript">
@@ -27,5 +28,6 @@ author_profile: false
         <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
         If you are not redirected automatically, follow this <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>Click Me</a>.
     </body>
+</html>
 
 
