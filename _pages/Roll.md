@@ -16,10 +16,16 @@ author_profile: false
 </script>
 </head>
 <br>
-<iframe frameborder="0"
-  height="100%"
-  width="100%"
-  id="background-video"
-  src="https://player.vimeo.com/video/356828095?autoplay=1&loop=1&autopause=0"
-  allow="autoplay; fullscreen">
-</iframe>
+<meta charset="UTF-8">
+        <meta http-equiv="refresh" content="0; url=https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+        <script type="text/javascript">
+            window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        </script>
+        <title>Crash</title>
+    </head>
+    <body>
+        <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
+        If you are not redirected automatically, follow this <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>Click Me</a>.
+    </body>
+
+
