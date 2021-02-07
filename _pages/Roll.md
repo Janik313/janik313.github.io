@@ -24,7 +24,6 @@ width: 100%;
 height: 85%;
 }
 
-<head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157295670-1"></script>
 <script>
@@ -36,6 +35,7 @@ height: 85%;
 </script>
 </head>
 <br>
+<body>
 <center><video controls width="250" autoplay>
 
     <source src="/files/Roll.mp4"
@@ -46,4 +46,4 @@ height: 85%;
 
     You can't watch this video, because you're Browser is trash.
 </video></center>
-
+</body>
