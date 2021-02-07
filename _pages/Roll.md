@@ -13,24 +13,6 @@ author_profile: false
   gtag('js', new Date());
 
   gtag('config', 'UA-157295670-1');
-  
-  <style type="text/css">
-  .container {
-   margin:0 auto; /* this will center the page */
-   width:80%; /*  use your width here */
-}
-.responsive {
-width: 100%;
-height: 0;
-padding-bottom: 56.25%;
-position: relative;
-}
-.responsive iframe {
-position: absolute;
-width: 100%;
-height: 85%;
-}
- </style>
 </script>
 </head>
 <br>
