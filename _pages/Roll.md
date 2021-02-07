@@ -17,7 +17,7 @@ author_profile: false
 </head>
 <br>
 <body>
-<center></body>
+<center>
 <video width="320" height="240" autoplay>
   <source src="/files/Roll.mp4" type="video/webm">
   <source src="/files/Roll.mp4" type="video/mp4">
