@@ -49,6 +49,15 @@ h1 {
  text-align: center;
  margin: 0; /* again, for perfect center */
 }
+
+h2 {
+ position: absolute; /* taken out of the normal flow of the document */
+ top: 35%; /* moved down by 50% of the screen height */
+ transform: translateY(-50%); /* moved back up (Y axis) by half of its height to achieve the perfect center */
+ width: 100%; /* needs to be defined to keep the default block behavior */
+ text-align: center;
+ margin: 0; /* again, for perfect center */
+}
 </style>
 
 
@@ -68,13 +77,23 @@ function refreshPage(){
 <h1>Ja</h1>
 
 
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
 
-<center><button type="submit" onClick="refreshPage()">Refresh Button</button></center>
+<center><button type="submit" onClick="window.location.href='https://janik313.github.io/Timer/';">Klicke hier um den Unterhosen-Status zu aktualisieren</button></center>
 
 
 </body>

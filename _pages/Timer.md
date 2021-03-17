@@ -49,9 +49,9 @@ h1 {
  text-align: center;
  margin: 0; /* again, for perfect center */
 }
-h2 {
+p {
  position: absolute; /* taken out of the normal flow of the document */
- top: 50%; /* moved down by 50% of the screen height */
+ top: 60%; /* moved down by 50% of the screen height */
  transform: translateY(-50%); /* moved back up (Y axis) by half of its height to achieve the perfect center */
  width: 100%; /* needs to be defined to keep the default block behavior */
  text-align: center;
@@ -73,7 +73,7 @@ function refreshPage(){
 
 <h1>Bitte warte 5 Sekunden bis wir den momentanen Unterhosen-Status abgerufen haben.</h1>
 <br>
-<h2>Du solltest nach 5 Sekunden automatisch weitergeleitet werden</h2>
+<p>Du solltest nach 5 Sekunden automatisch weitergeleitet werden</p>
 
 
 
@@ -81,10 +81,6 @@ function refreshPage(){
 <br>
 <br>
 <br>
-
-<button onclick="window.location.href='https://w3docs.com';">
-      Click Here
-    </button>
 
 <center><button type="submit" onClick="window.location.href='https://janik313.github.io/Flo/';">Klicke hier falls du nicht weitergeleitet wirst</button></center>
 
