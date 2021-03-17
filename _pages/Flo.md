@@ -1,7 +1,7 @@
 ---
 layout: none
 title: "Sitz Florian im Moment in Unterhosen am PC?"
-permalink: /Unterhose/
+permalink: /Flo/
 author_profile: false
 ---
 <html lang="de-CH">
@@ -63,15 +63,18 @@ function refreshPage(){
 
 <body>
 
-
+<h2>Sitzt Florian im Moment gerade in Unterhosen am Pc?</h2>
+<br>
 <h1>This is center aligned text</h1>
 
 
 
 
+<br>
+<br>
+<br>
 
-
-<button type="submit" onClick="refreshPage()">Refresh Button</button>
+<center><button type="submit" onClick="refreshPage()">Refresh Button</button></center>
 
 
 </body>
