@@ -1,14 +1,14 @@
 ---
 layout: none
-title: "Bitte warte 5 Sekunden"
+title: "Bitte warte 10 Sekunden"
 permalink: /Timer/
 author_profile: false
 ---
 <html lang="de-CH">
 <head>
-<meta http-equiv="refresh" content="3;url=https://janik313.github.io/Flo/" />
+<meta http-equiv="refresh" content="10;url=https://janik313.github.io/Flo/" />
 
- <title>Bitte warte 5 Sekunden</title>
+ <title>Bitte warte 10 Sekunden</title>
  <style type="text/css">
   .container {
    margin:0 auto; /* this will center the page */
@@ -73,9 +73,9 @@ function refreshPage(){
 
 <body>
 
-<h1>Bitte warte 5 Sekunden bis wir den momentanen Unterhosen-Status abgerufen haben.</h1>
+<h1>Bitte warte 10 Sekunden bis wir den momentanen Unterhosen-Status abgerufen haben.</h1>
 <br>
-<p>Du solltest nach 5 Sekunden automatisch weitergeleitet werden</p>
+<p>Du solltest nach 10 Sekunden automatisch weitergeleitet werden</p>
 
 
 
