@@ -103,9 +103,6 @@ function refreshPage(){
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 
 <center><button type="submit" onClick="window.location.href='https://janik313.github.io/Timer/';">Klicke hier um den Unterhosen-Status zu aktualisieren</button></center>
