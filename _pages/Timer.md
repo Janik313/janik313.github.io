@@ -59,6 +59,14 @@ p {
  text-align: center;
  margin: 0; /* again, for perfect center */
 }
+button {
+ position: absolute; /* taken out of the normal flow of the document */
+ top: 50%; /* moved down by 50% of the screen height */
+ transform: translateY(-50%); /* moved back up (Y axis) by half of its height to achieve the perfect center */
+ width: 100%; /* needs to be defined to keep the default block behavior */
+ text-align: center;
+ margin: 0; /* again, for perfect center */
+}
 </style>
 
 
@@ -78,42 +86,7 @@ function refreshPage(){
 <p>Du solltest nach 10 Sekunden automatisch weitergeleitet werden</p>
 
 
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-
-<center><button type="submit" onClick="window.location.href='https://janik313.github.io/Flo/';">Klicke hier falls du nicht weitergeleitet wirst</button></center>
+<button type="submit" onClick="window.location.href='https://janik313.github.io/Flo/';">Klicke hier falls du nicht weitergeleitet wirst</button>
 
 
 </body>
