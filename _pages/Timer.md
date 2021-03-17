@@ -1,12 +1,12 @@
 ---
 layout: none
-title: "Sitz Florian im Moment in Unterhosen am PC?"
-permalink: /Flo/
+title: "Bitte warte 5 Sekunden"
+permalink: /Timer/
 author_profile: false
 ---
 <html lang="de-CH">
 <head>
- <title>Sitz Florian im Moment in Unterhosen am PC?</title>
+ <title>Bitte warte 5 Sekunden</title>
  <style type="text/css">
   .container {
    margin:0 auto; /* this will center the page */
@@ -49,6 +49,14 @@ h1 {
  text-align: center;
  margin: 0; /* again, for perfect center */
 }
+h2 {
+ position: absolute; /* taken out of the normal flow of the document */
+ top: 50%; /* moved down by 50% of the screen height */
+ transform: translateY(-50%); /* moved back up (Y axis) by half of its height to achieve the perfect center */
+ width: 100%; /* needs to be defined to keep the default block behavior */
+ text-align: center;
+ margin: 0; /* again, for perfect center */
+}
 </style>
 
 
@@ -63,9 +71,9 @@ function refreshPage(){
 
 <body>
 
-<h2>Sitzt Florian im Moment gerade in Unterhosen am Pc?</h2>
+<h1>Bitte warte 5 Sekunden bis wir den momentanen Unterhosen-Status abgerufen haben.</h1>
 <br>
-<h1>Ja</h1>
+<h2>Du solltest nach 5 Sekunden automatisch weitergeleitet werden</h2>
 
 
 
@@ -74,7 +82,11 @@ function refreshPage(){
 <br>
 <br>
 
-<center><button type="submit" onClick="refreshPage()">Refresh Button</button></center>
+<button onclick="window.location.href='https://w3docs.com';">
+      Click Here
+    </button>
+
+<center><button type="submit" onClick="window.location.href='https://janik313.github.io/Flo/';">Klicke hier falls du nicht weitergeleitet wirst</button></center>
 
 
 </body>
