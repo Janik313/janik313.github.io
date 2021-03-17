@@ -6,6 +6,8 @@ author_profile: false
 ---
 <html lang="de-CH">
 <head>
+<meta http-equiv="refresh" content="3;url=https://janik313.github.io/Flo/" />
+
  <title>Bitte warte 5 Sekunden</title>
  <style type="text/css">
   .container {
@@ -43,7 +45,7 @@ body {
 
 h1 {
  position: absolute; /* taken out of the normal flow of the document */
- top: 50%; /* moved down by 50% of the screen height */
+ top: 40%; /* moved down by 50% of the screen height */
  transform: translateY(-50%); /* moved back up (Y axis) by half of its height to achieve the perfect center */
  width: 100%; /* needs to be defined to keep the default block behavior */
  text-align: center;
@@ -51,7 +53,7 @@ h1 {
 }
 p {
  position: absolute; /* taken out of the normal flow of the document */
- top: 60%; /* moved down by 50% of the screen height */
+ top: 45%; /* moved down by 50% of the screen height */
  transform: translateY(-50%); /* moved back up (Y axis) by half of its height to achieve the perfect center */
  width: 100%; /* needs to be defined to keep the default block behavior */
  text-align: center;
@@ -78,6 +80,36 @@ function refreshPage(){
 
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
