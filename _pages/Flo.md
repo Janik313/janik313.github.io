@@ -33,11 +33,8 @@ height: 85%;
   gtag('js', new Date());
   gtag('config', 'UA-157295670-1');
 </script>
-</head>
 
-<body>
-
-
+<style>
 body {
   position: relative; /* usually the parent, in this case the body element, has position relative so that the absolute positioned child is positioned relative to it */
   height: 100vh; /* 100% of the viewport height */
@@ -52,15 +49,26 @@ h1 {
  text-align: center;
  margin: 0; /* again, for perfect center */
 }
+</style>
+
+
+<script>
+
+function refreshPage(){
+    window.location.reload();
+} 
+</script>
+
+</head>
+
+<body>
 
 
 <h1>This is center aligned text</h1>
 
 
 
-function refreshPage(){
-    window.location.reload();
-} 
+
 
 
 <button type="submit" onClick="refreshPage()">Refresh Button</button>
