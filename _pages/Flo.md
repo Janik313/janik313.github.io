@@ -81,7 +81,7 @@ function refreshPage(){
 
 <body>
 
-<h2>Sitzt Florian im Moment gerade in Unterhosen am Pc?</h2>
+<h2>Sitzt Florian im Moment gerade in Unterhosen am PC?</h2>
 <br>
 <h1>Ja</h1>
 
