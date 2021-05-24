@@ -5,8 +5,9 @@ excerpt: "About me"
 author_profile: true
 ---
 
-On this website you can download my self-made programs.
-<br>There's nothing more to do here, but you can look at this thing and listen to the Nyan Cat Theme.
+Auf dieser Webseite lade ich meine Projekte hoch.
+<br> Falls du irgendeine Frage hast kannst du mir auf Discord eine Nachricht senden: Janik#8994
+<br>Für viel mehr ist diese Webseite nich da, aber du kannst dieses Gif ansehen und das Nyan Cat theme hören.
 
 <head>
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -21,10 +22,10 @@ On this website you can download my self-made programs.
 </head>
 
 
-<center><br>You wasted</center> 
+<center><br>Du hast</center> 
 <center><br></center>
 <center><span id="seconds"></span></center>
-<center><br>seconds of your life on this website.</center>
+<center><br>Sekunden von deinem Leben auf dieser Webseite verschwendet.</center>
 
 
 <script>
