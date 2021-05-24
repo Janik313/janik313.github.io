@@ -41,7 +41,7 @@ author_profile: false
 <br><a href="https://janik313.github.io/JumpAndDie-WebVersion/">https://janik313.github.io/JumpAndDie-WebVersion/</a> Die Webversion von Jump and Die
 <br><a href="https://janik313.github.io/CubeSlide/">https://janik313.github.io/CubeSlide/</a> Die Downloadseite eines Spieles
 <br><a href="https://janik313.github.io/CubeSlide-WebVersion/">https://janik313.github.io/CubeSlide-WebVersion/</a> Die Webversion von CubeSlide
-<br><a href="url">https://janik313.github.io/EpFeed/</a> Eine Webapp welche die Wartezeiten, etc. vom Europapark anzeigen kann.
+<br><a href="https://janik313.github.io/EpFeed">https://janik313.github.io/EpFeed</a> Eine Webapp welche die Wartezeiten, etc. vom Europapark anzeigen kann.
 </html>
 
 
