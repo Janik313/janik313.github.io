@@ -1,7 +1,4 @@
 # main links links
 main:
   - title: "Downloads"
-    url: /downloads/
-
-  - title: "Latest Releases"
-    url: /releases/    
+    url: /downloads/  
